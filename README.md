@@ -20,7 +20,7 @@ visual representation to make data driven decisions.So the data Analyst team has
 By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result 
 and success criteria  of our project.
 
-<img src ="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/AIMS%20grid%20sales%20insights.jpg">
+<img src ="https://github.com/sandhyasailakshmi/Portfolio/blob/main/Screenshots/AIMS%20.png">
 
 ## Steps Followed in this project
 
@@ -59,16 +59,16 @@ and success criteria  of our project.
 #### Dashboard KPI Page
 
 -------
- <img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20KPI.png" class="center">
+ <img src="https://github.com/sandhyasailakshmi/Portfolio/blob/main/Screenshots/KPI%20Page.png" class="center">
  
  #### Dashboard Performance Insights
 
 -------
- <img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20Performance%20Insights.png" class="center">
+ <img src="https://github.com/sandhyasailakshmi/Portfolio/blob/main/Screenshots/Performance%20Insight%20Page.png" class="center">
  
 
  #### Dashboard Profit Analysis
  
  -----------
  
-  <img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20Profit%20Analysis.png" class="center">
+  <img src="https://github.com/sandhyasailakshmi/Portfolio/blob/main/Screenshots/Profit%20Analysis%20Page.png" class="center">
