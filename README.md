@@ -71,4 +71,4 @@ and success criteria  of our project.
  
  -----------
  
-  <img src="https://github.com/sandhyasailakshmi/Portfolio/blob/main/Screenshots/Profit%20Analysis%20Page.png" class="center">
+  <img src="https://github.com/sandhyasailakshmi/Portfolio/blob/main/Dashboard%20Views/Profit%20Analysis%20.png" class="center">
