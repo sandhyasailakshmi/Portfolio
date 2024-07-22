@@ -59,7 +59,7 @@ and success criteria  of our project.
 #### Dashboard KPI Page
 
 -------
- <img src="https://github.com/sandhyasailakshmi/Portfolio/blob/main/Screenshots/KPI%20Page.png" class="center">
+ <img src="https://github.com/sandhyasailakshmi/Portfolio/blob/main/Dashboard%20Views/KPI%20Page.png" class="center">
  
  #### Dashboard Performance Insights
 
